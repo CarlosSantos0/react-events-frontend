@@ -1,25 +1,52 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component, Fragment } from "react";
+import { Route, BrowserRouter as Router } from "react-router-dom";
+import "./App.css";
+import BlankPage from "./components/BlankPage";
+import Header from "./components/Header";
+import Overlay from "./components/Overlay";
+import PostsContainer from "./components/PostsContainer";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  state = {
+    overlay: {
+      title: "Sunrise Yoga",
+      place: "The pool Deck 17 AFT",
+      duration: "8-9AM",
+      date: "today",
+      category: "fun",
+      picture: "",
+    },
+  };
+
+  updateOverlay = (Post) => {
+    this.setState({ overlay: Post });
+  };
+
+  render() {
+    return (
+      <Router>
+        <Route
+          exact
+          path="/"
+          render={() => (
+            <Fragment>
+              <Header updateOverlay={this.updateOverlay} />
+              <Overlay overlay={this.state.overlay} />
+            </Fragment>
+          )}
+        />
+        <Route path="/posts" render={() => <PostsContainer />} />
+        <Route
+          path="/exploreship"
+          render={() => <BlankPage title="Explore The Ship - Blank Page" />}
+        />
+        <Route
+          path="/explorebars"
+          render={() => <BlankPage title="Explore Bars - Blank Page" />}
+        />
+      </Router>
+    );
+  }
 }
 
 export default App;
