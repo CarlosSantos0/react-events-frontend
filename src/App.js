@@ -9,11 +9,11 @@ import PostsContainer from "./components/PostsContainer";
 class App extends Component {
   state = {
     overlay: {
-      title: "Sunrise Yoga",
-      place: "The pool Deck 17 AFT",
+      title: "Fanci a drink?",
+      place: "AHOY, SAILOR!",
       duration: "8-9AM",
-      date: "today",
-      category: "fun",
+      date: "Today",
+      category: "Fun",
       picture: "",
     },
   };

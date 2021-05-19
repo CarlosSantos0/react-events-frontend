@@ -47,10 +47,16 @@ header {
 .post {
   display: flex;
   margin: 15px 0px;
+  cursor: pointer;
 }
 
 .post-details {
   padding: 3px 8px;
+  font-size: 14px;
+}
+
+.post-details > * {
+  margin: 2.5px 0px;
 }
 
 .post-list {
@@ -91,6 +97,7 @@ main {
   width: 100%;
   min-height: 100%;
   background-color: var(--primary-color);
+  filter: blur(0.5px);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -101,8 +108,8 @@ main {
 
 .overlay-description {
   margin-left: 300px;
-  margin-bottom: 120px;
-  width: 450px;
+  margin-bottom: 100px;
+  width: 520px;
 }
 
 .overlay-description > * {
@@ -192,4 +199,8 @@ a {
   cursor: pointer;
   text-decoration: none;
   color: white;
+}
+
+header h2 {
+  font-size: 50px;
 }

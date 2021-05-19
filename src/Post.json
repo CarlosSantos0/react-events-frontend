@@ -3,72 +3,96 @@
     "title": "Sunrise Yoga",
     "place": "The pool Deck 17 AFT",
     "duration": "8-9AM",
-    "date": "today",
-    "category": "Fun",
-    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/220px-Image_created_with_a_mobile_phone.png"
+    "date": "Today",
+    "category": "PHYSICAL",
+    "picture": "https://images.unsplash.com/photo-1474418397713-7ede21d49118?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=736&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
-    "date": "today",
-    "category": "Comedy",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "title": "Acoustic Music",
+    "place": "Broadwalk Deck 17 FORE",
+    "duration": "8AM-1PM",
+    "date": "Today",
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1445985543470-41fba5c3144a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
-    "date": "today",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "title": "The Retro Glam Party",
+    "place": "The pool Deck 17 Aft",
+    "duration": "9-11AM",
+    "date": "Today",
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1618481187866-5c7b6b9b5431?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
+    "title": "DJ Chill",
+    "place": "Black Box, Deck 6 MID",
+    "duration": "9AM-1PM",
+    "date": "Tomorrow",
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1598387845849-1a16ae8fe2fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80"
+  },
+  {
+    "title": "Master Chef Shool",
+    "place": "Ma Cuisine, Deck 17 Aft",
+    "duration": "9AM-12PM",
+    "date": "Tomorrow",
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "title": "Floating Flotilla",
+    "place": "The Pool, Deck 17 Aft",
+    "duration": "10AM-1PM",
+    "date": "Tomorrow",
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1574402799045-7bb562ec498c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "title": "Sunrise Yoga",
     "place": "The pool Deck 17 AFT",
     "duration": "8-9AM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "PHYSICAL",
+    "picture": "https://images.unsplash.com/photo-1474418397713-7ede21d49118?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=736&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
+    "title": "Acoustic Music",
+    "place": "Broadwalk Deck 17 FORE",
+    "duration": "8AM-1PM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1445985543470-41fba5c3144a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
+    "title": "The Retro Glam Party",
+    "place": "The pool Deck 17 Aft",
+    "duration": "9-11AM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1618481187866-5c7b6b9b5431?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
+    "title": "DJ Chill",
+    "place": "Black Box, Deck 6 MID",
+    "duration": "9AM-1PM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1598387845849-1a16ae8fe2fb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
+    "title": "Master Chef Shool",
+    "place": "Ma Cuisine, Deck 17 Aft",
+    "duration": "9AM-12PM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   },
   {
-    "title": "Pires Pires Yoga",
-    "place": "The pool Deck 17 AFT",
-    "duration": "8-9AM",
+    "title": "Floating Flotilla",
+    "place": "The Pool, Deck 17 Aft",
+    "duration": "10AM-1PM",
     "date": "Tomorrow",
-    "category": "fun",
-    "picture": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/06/24/5fa52d87af475.jpeg"
+    "category": "FUN",
+    "picture": "https://images.unsplash.com/photo-1574402799045-7bb562ec498c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
   }
 ]
